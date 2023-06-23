@@ -43,3 +43,35 @@ GlobalAssemblyInfo.cs
 
 Confuser2.sln
 
+
+Build/UpdateVersion.exe
+Build/obj
+Build/obj/**
+
+Confuser.CLI/obj
+Confuser.CLI/obj/**
+
+Confuser.Core/obj
+Confuser.Core/obj/**
+
+Confuser.DynCipher/obj
+Confuser.DynCipher/obj/**
+
+Confuser.Protections/obj
+Confuser.Protections/obj/**
+
+Confuser.Renamer/obj
+Confuser.Renamer/obj/**
+
+Confuser.Runtime/obj
+Confuser.Runtime/obj/**
+
+ConfuserEx/obj
+ConfuserEx/obj/**
+
+GlobalAssemblyInfo.cs
+
+UnitTest/bin
+UnitTest/bin/**
+UnitTest/obj
+UnitTest/obj/**
