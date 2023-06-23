@@ -1,0 +1,8 @@
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.Core.xml
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.Core.dll
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.Core.pdb
+F:\DEV3\neo-ConfuserEx\Confuser.Core\obj\Debug\Confuser.Core.csproj.AssemblyReference.cache
+F:\DEV3\neo-ConfuserEx\Confuser.Core\obj\Debug\Confuser.Core.csproj.CoreCompileInputs.cache
+F:\DEV3\neo-ConfuserEx\Confuser.Core\obj\Debug\Confuser.Core.csproj.CopyComplete
+F:\DEV3\neo-ConfuserEx\Confuser.Core\obj\Debug\Confuser.Core.dll
+F:\DEV3\neo-ConfuserEx\Confuser.Core\obj\Debug\Confuser.Core.pdb

@@ -1,0 +1,7 @@
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.CLI.exe
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.CLI.pdb
+F:\DEV3\neo-ConfuserEx\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.AssemblyReference.cache
+F:\DEV3\neo-ConfuserEx\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CoreCompileInputs.cache
+F:\DEV3\neo-ConfuserEx\Confuser.CLI\obj\Debug\Confuser.CLI.csproj.CopyComplete
+F:\DEV3\neo-ConfuserEx\Confuser.CLI\obj\Debug\Confuser.CLI.exe
+F:\DEV3\neo-ConfuserEx\Confuser.CLI\obj\Debug\Confuser.CLI.pdb

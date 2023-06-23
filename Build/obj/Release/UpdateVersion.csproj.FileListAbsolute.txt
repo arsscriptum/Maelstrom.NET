@@ -1,0 +1,3 @@
+F:\DEV3\neo-ConfuserEx\Build\obj\Release\UpdateVersion.csproj.CoreCompileInputs.cache
+F:\DEV3\neo-ConfuserEx\Build\obj\Release\UpdateVersion.exe
+F:\DEV3\neo-ConfuserEx\Build\UpdateVersion.exe

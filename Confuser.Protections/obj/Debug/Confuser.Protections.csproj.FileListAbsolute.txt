@@ -1,0 +1,7 @@
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.Protections.dll
+F:\DEV3\neo-ConfuserEx\Debug\bin\Confuser.Protections.pdb
+F:\DEV3\neo-ConfuserEx\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.AssemblyReference.cache
+F:\DEV3\neo-ConfuserEx\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CoreCompileInputs.cache
+F:\DEV3\neo-ConfuserEx\Confuser.Protections\obj\Debug\Confuser.Protections.csproj.CopyComplete
+F:\DEV3\neo-ConfuserEx\Confuser.Protections\obj\Debug\Confuser.Protections.dll
+F:\DEV3\neo-ConfuserEx\Confuser.Protections\obj\Debug\Confuser.Protections.pdb
