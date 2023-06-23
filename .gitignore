@@ -43,7 +43,7 @@ GlobalAssemblyInfo.cs
 
 Confuser2.sln
 
-
+Confuser.Runtime/Confuser.Runtime.csproj.metaproj
 Build/UpdateVersion.exe
 Build/obj
 Build/obj/**
