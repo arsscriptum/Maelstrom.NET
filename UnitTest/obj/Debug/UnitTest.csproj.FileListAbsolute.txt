@@ -1,6 +1,0 @@
-F:\DEV3\neo-ConfuserEx\UnitTest\bin\Debug\UnitTest.exe.config
-F:\DEV3\neo-ConfuserEx\UnitTest\bin\Debug\UnitTest.exe
-F:\DEV3\neo-ConfuserEx\UnitTest\bin\Debug\UnitTest.pdb
-F:\DEV3\neo-ConfuserEx\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
-F:\DEV3\neo-ConfuserEx\UnitTest\obj\Debug\UnitTest.exe
-F:\DEV3\neo-ConfuserEx\UnitTest\obj\Debug\UnitTest.pdb

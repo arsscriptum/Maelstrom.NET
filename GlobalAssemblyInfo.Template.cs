@@ -1,8 +1,8 @@
 ﻿using System.Reflection;
 
-[assembly: AssemblyProduct("Chrome")]
-[assembly: AssemblyCompany("Google")]
-[assembly: AssemblyCopyright("Copyright (C) Google 2020")]
+[assembly: AssemblyProduct("ConfuserEx")]
+[assembly: AssemblyCompany("Ki")]
+[assembly: AssemblyCopyright("Copyright (C) Ki 2014")]
 
 #if DEBUG
 

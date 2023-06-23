@@ -1,8 +1,8 @@
 using System.Reflection;
 
-[assembly: AssemblyProduct("Chrome")]
-[assembly: AssemblyCompany("Google")]
-[assembly: AssemblyCopyright("Copyright (C) Google 2020")]
+[assembly: AssemblyProduct("ConfuserEx")]
+[assembly: AssemblyCompany("Ki")]
+[assembly: AssemblyCopyright("Copyright (C) Ki 2014")]
 
 #if DEBUG
 
@@ -12,6 +12,6 @@ using System.Reflection;
 [assembly: AssemblyConfiguration("Release")]
 #endif
 
-[assembly: AssemblyVersion("1.0.0.38")]
-[assembly: AssemblyFileVersion("1.0.0.38")]
-[assembly: AssemblyInformationalVersion("v1.0.0-38-g7889971")]
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
+[assembly: AssemblyInformationalVersion("v1.0.0")]
