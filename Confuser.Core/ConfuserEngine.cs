@@ -300,9 +300,10 @@ namespace Confuser.Core {
 					marker.Mark(cctor, null);
 			}
 
-
-			/* Watermarking disabled...
-			==========================================================================
+			/*
+			===================================================================================================
+			DISABLE WATERMARKING
+			===================================================================================================
 			context.Logger.Debug("Watermarking...");
 			foreach (ModuleDefMD module in context.Modules) {
 				TypeRef attrRef = module.CorLibTypes.GetTypeRef("System", "Attribute");
@@ -328,8 +329,11 @@ namespace Confuser.Core {
 
 				module.CustomAttributes.Add(attr);
 			}
-			==========================================================================
+			===================================================================================================
+			DISABLE WATERMARKING
+			===================================================================================================
 			*/
+			
 		}
 
 		static void CopyPEHeaders(PEHeadersOptions writerOptions, ModuleDefMD module) {
